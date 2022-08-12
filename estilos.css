@@ -1,0 +1,55 @@
+.formatoParrafos {
+    width: 110%;
+    height: 80%;
+    margin: 9%;
+    border-bottom: solid 3px gray;
+    border-left: solid 3px gray;
+    padding: 12px;
+    line-height: 2;
+} 
+
+.titulosIntermedios{
+    color: gray;
+    font-size: 243%;
+    text-align: center;
+    margin: 5%;
+}
+.cita{
+    margin: 5%;
+}
+header{
+    background-image: url("./imagenes/teatro-indep.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 100vw;
+}
+
+
+.tituloPrincipal{
+    color: rgb(168, 168, 168);
+    font-size: 700%;
+    font-weight: bold;
+    text-align: center;
+    margin: 2%; 
+} 
+
+.texto2Header{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    font-size: 200%;
+    margin: 1%;
+    background-color: rgba(202, 202, 202, 0.719);
+    border-radius: solid black 1px;
+}
+
+.flechaANosotros{
+    width: 10%;
+    height: 10%;
+    margin-left: 45%;       
+}
+
+.margin{
+    margin: 4%
+}
